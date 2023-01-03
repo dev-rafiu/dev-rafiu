@@ -7,7 +7,7 @@ Web Developer(Front-end)
 An enthusiastic front-end developer with basic backend knowledge(Node,MongoDB). I like to learn new things and work on side projects.
 
 * 🌍  I'm based in Accra, Ghana
-* 🖥️  See my portfolio at [dev-rafiu.netlify.app](http://dev.rafiu.netlify.app)
+* 🖥️  See my portfolio at [dev-rafiu.netlify.app](http://dev-rafiu.netlify.app)
 * 🧠  I'm learning web development technologies
 
 ### Skills
